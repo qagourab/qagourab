@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: python-libxdo
+Version: 0.1.2a1
+Summary: Python bindings for libxdo
+Home-page: https://github.com/rshk/python-libxdo
+Author: Samuele Santi
+Author-email: samuele@samuelesanti.com
+License: BSD License
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: Implementation :: CPython

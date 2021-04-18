@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ownBrowser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ownBrowser/venv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ownBrowser/venv/src/python-libxdo" vcs="Git" />
+  </component>
+</project>

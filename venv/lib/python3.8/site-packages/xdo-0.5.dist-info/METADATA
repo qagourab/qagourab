@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: xdo
+Version: 0.5
+Summary: simulate X11 keyboard/mouse input (bindings for libxdo)
+Home-page: UNKNOWN
+Author: Daniel Kahn Gillmor
+Author-email: dkg@fifthhorseman.net
+License: BSD
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+
+UNKNOWN
+
+
